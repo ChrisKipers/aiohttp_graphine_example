@@ -1,0 +1,5 @@
+database: aiohttp_graphine_example
+user: root
+password: ""
+host: localhost
+port: 3306
